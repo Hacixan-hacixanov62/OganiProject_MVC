@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\API (Pb-202) _ Task\\Consume Project\\OganiProject_MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F0D91B-7C6A-4CBC-87A2-CEF057053530}|OganiProject_MVC\\OganiProject_MVC.csproj|d:\\api (pb-202) _ task\\consume project\\oganiproject_mvc\\oganiproject_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F0D91B-7C6A-4CBC-87A2-CEF057053530}|OganiProject_MVC\\OganiProject_MVC.csproj|solutionrelative:oganiproject_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\Consume Project\\OganiProject_MVC\\OganiProject_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "OganiProject_MVC\\Program.cs",
+              "ToolTip": "D:\\API (Pb-202) _ Task\\Consume Project\\OganiProject_MVC\\OganiProject_MVC\\Program.cs",
+              "RelativeToolTip": "OganiProject_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:40:09.631Z",
+              "EditorCaption": ""
             }
           ]
         }
